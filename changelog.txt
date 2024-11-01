@@ -1,0 +1,11 @@
+*** Changelog ***
+
+= 2.0.1 - 2024-4-30 =
+* Enhancement - Improved user experience for the migration process.
+
+= 2.0.0 - 2024-4-8 =
+* Enhancement - Improved template list and download process
+* Enhancement - Keep user properties and its restore after template installation
+
+= 1.0.0 - 2023-5-28 =
+* Initial release for offline key account usage.
